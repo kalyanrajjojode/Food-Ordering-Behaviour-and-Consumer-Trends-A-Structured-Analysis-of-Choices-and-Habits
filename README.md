@@ -256,16 +256,6 @@ This dashboard helps restaurant owners, delivery platforms, and business analyst
 
 ### Tableau Public
 
-https://public.tableau.com/app/profile/challa.akhil.royal
-
-### GitHub
-
-https://github.com/YOUR_GITHUB_USERNAME
-
-### LinkedIn
-
-https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-
 ---
 
 # ⭐ Support
