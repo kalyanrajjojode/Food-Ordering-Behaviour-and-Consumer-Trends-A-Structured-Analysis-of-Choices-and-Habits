@@ -5,15 +5,6 @@ An interactive **Tableau Dashboard** built to analyze food delivery data by expl
 🔗 **Live Dashboard:**  
 https://public.tableau.com/views/Story_17833558926140/Dashboard1?:showVizHome=no
 
----
-
-# 📊 Dashboard Preview
-
-> Add a screenshot of your dashboard here.
-
-Example:
-
-![Dashboard Preview](Dashboard.png)
 
 ---
 
